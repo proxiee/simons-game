@@ -1,4 +1,4 @@
-# simons-game (THe URL is for the website is provided)
+# simons-game (The URL is for the website is provided)
 Simon is a classic memory game where players must repeat a sequence of colors and sounds.
 The game starts with a single color and sound, and each round adds a new one.
 Players must remember and repeat the entire sequence correctly to advance.
