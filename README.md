@@ -5,6 +5,9 @@ Players must remember and repeat the entire sequence correctly to advance.
 The game gets progressively harder as the sequence gets longer.
 
 
+The HTML/CSS files are used to create the interface for the game.
+
+
 In the Javascript file - 
 - When a key is pressed, the game starts by calling the `nextSequence()` function. If the game has already started, the `startOver()` function is called to reset the game.
 - When a button is clicked, the color of the button is added to the `userClickedPattern` array. The `playSound()` function is called to play a sound associated with the color, and the `animatePress()` function is called to add an animation to the button. The `checkAnswer()` function is then called to check if the user's answer is correct.
